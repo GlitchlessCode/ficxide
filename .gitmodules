@@ -1,0 +1,3 @@
+[submodule "ficsit-companion"]
+	path = ficsit-companion
+	url = https://github.com/adepierre/ficsit-companion
